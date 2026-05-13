@@ -1,0 +1,56 @@
+{
+  "businessName": "Bepmop Cakes N More",
+  "industry": "Food Manufacturing & Bakery",
+  "tone": "warm and inviting",
+  "tagline": "Crafting Sweet Memories, One Cake at a Time",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Welcome to Bepmop Cakes N More\n\nYour trusted partner for premium cakes, pastries, and confectioneries in Karu. We blend traditional Nigerian flavors with modern baking techniques to create unforgettable treats for every celebration.\n\nWhether it's a birthday, wedding, or corporate event, we deliver freshness and quality right to your doorstep.",
+      "imagePrompt": "A beautifully decorated multi-tier Nigerian wedding cake with intricate fondant designs in gold and white, displayed on an elegant table with soft natural lighting, surrounded by colorful cupcakes and pastries, professional bakery photography, warm and inviting atmosphere, shallow depth of field",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About Bepmop Cakes N More\n\nEstablished in the heart of Karu, Bepmop Cakes N More is a leading name in cake manufacturing and custom confectionery. We pride ourselves on using only the finest ingredients to create cakes that not only look stunning but taste exceptional.\n\nOur experienced bakers understand the Nigerian palate and specialize in both traditional and contemporary designs. From small chops for your events to elaborate celebration cakes, we handle every order with meticulous attention to detail.\n\nWhat sets us apart is our commitment to hygiene, punctual delivery, and customer satisfaction. We've become the go-to bakery for families, businesses, and event planners across Karu Local Government and beyond.",
+      "imagePrompt": "A bright, modern Nigerian bakery kitchen with professional bakers in clean white uniforms working on cakes, stainless steel equipment, mixing bowls, piping bags, and fresh ingredients visible, natural light streaming through large windows, clean and hygienic environment, documentary-style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "What We Offer\n\nCustom Celebration Cakes\nBirthday cakes, wedding cakes, anniversary cakes, and more. Fully customizable designs to match your theme and preferences. We work with you from concept to delivery.\n\nCorporate Cakes & Pastries\nProfessional cake services for corporate events, product launches, and office celebrations. Bulk orders welcome with special pricing for businesses.\n\nSmall Chops & Event Treats\nPerfect finger foods for your events including meat pies, puff-puff, doughnuts, chin-chin, and samosas. Freshly made and delivered hot.\n\nCupcakes & Desserts\nBeautifully decorated cupcakes, brownies, cookies, and other sweet treats perfect for parties, gifts, or personal indulgence.\n\nWedding Cakes\nStunning multi-tier wedding cakes designed to be the centerpiece of your special day. We offer tasting sessions and work closely with you to create your dream cake.\n\nDelivery Services\nFast and reliable delivery across Karu, Nyanya, Mararaba, and surrounding areas in Nasarawa State.",
+      "imagePrompt": "A collage-style display of various Nigerian celebration cakes and pastries: a colorful birthday cake with fondant decorations, elegant white wedding cake, corporate branded cake, golden meat pies, fluffy cupcakes with Nigerian flag colors, all arranged on rustic wooden surfaces with natural lighting, professional food photography",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Get in Touch with Bepmop Cakes N More\n\nReady to place your order or discuss your cake needs? We're here to help!\n\nVisit Our Location:\nAuta Balefi U-Turn, Opposite Panya Baba Mall\nKaru Local Government, Nasarawa State, Nigeria\n\nCall or WhatsApp:\n0809 510 9493\n\nBusiness Hours:\nMonday - Saturday: 8:00 AM - 7:00 PM\nSunday: 10:00 AM - 5:00 PM\n\nWe recommend placing orders at least 48 hours in advance for custom cakes. For urgent orders, please call us directly to check availability.\n\nFollow us on social media for daily cake inspiration, special offers, and new product announcements!",
+      "imagePrompt": "A welcoming Nigerian bakery storefront with bright signage, customers being served at a clean counter, display cases filled with colorful cakes and pastries, friendly staff in uniform, Panya Baba Mall visible in background, daylight photography, professional and inviting atmosphere, Karu neighborhood setting",
+      "layout": "default"
+    },
+    {
+      "id": "testimonials",
+      "name": "Customer Reviews",
+      "copy": "What Our Customers Say\n\n\"Bepmop Cakes made my daughter's 5th birthday unforgettable! The Frozen-themed cake was absolutely stunning and tasted even better than it looked. Everyone at the party kept asking where we got it from. Highly recommended!\" - Mrs. Adeyemi, Karu\n\n\"I've been ordering from Bepmop for all our company events for the past year. Their professionalism, quality, and timely delivery are unmatched. The cakes always arrive fresh and beautifully packaged.\" - Mr. Chukwu, Corporate Client\n\n\"My wedding cake was a dream come true! The team listened to every detail and delivered exactly what I wanted. It was the talk of the reception. Thank you, Bepmop Cakes N More!\" - Blessing & Emeka\n\n\"Best small chops in Karu! I order their meat pies and puff-puff for all my events. Always fresh, always delicious, and they never disappoint.\" - Chief Abdullahi",
+      "imagePrompt": "Happy Nigerian customers at a celebration holding slices of beautiful cake, smiling faces, colorful party decorations, children and adults enjoying desserts together, warm candid photography, authentic joyful moments, Nigerian family gathering atmosphere",
+      "layout": "cards"
+    },
+    {
+      "id": "faq",
+      "name": "Frequently Asked Questions",
+      "copy": "Common Questions\n\nHow far in advance should I place my order?\nWe recommend ordering at least 48-72 hours in advance for custom cakes. For simple designs or our regular menu items, 24 hours notice is usually sufficient. For large events or elaborate wedding cakes, please contact us at least 2 weeks ahead.\n\nDo you deliver to my area?\nWe deliver across Karu Local Government including Nyanya, Mararaba, New Karu, and surrounding areas. Delivery fees vary by location. Please call us to confirm delivery to your specific address.\n\nCan I see my cake design before you make it?\nYes! We provide design consultations and can show you reference images or sketches based on your requirements. For wedding cakes, we offer tasting sessions as well.\n\nWhat flavors do you offer?\nWe offer chocolate, vanilla, red velvet, marble, lemon, coconut, banana, and fruit cake. We can also create custom flavors upon request. All our cakes can be filled with buttercream, chocolate ganache, or fruit preserves.\n\nDo you cater to dietary restrictions?\nYes, we can prepare sugar-free cakes and accommodate certain dietary needs. Please inform us when placing your order so we can advise on available options.\n\nWhat are your payment options?\nWe accept cash, bank transfers, and mobile payments (Opay, PalmPay). A 50% deposit is required for custom cake orders, with the balance due on delivery.\n\nWhat is your cancellation policy?\nCancellations made 48 hours before delivery receive a full refund minus the deposit. Cancellations within 24 hours may forfeit the deposit as ingredients have been purchased.",
+      "imagePrompt": "A clean, organized Nigerian bakery consultation area with a friendly baker showing cake design samples on a tablet to interested customers, color swatches and cake flavor samples on the table, professional yet warm setting, bright natural lighting, modern customer service environment",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "08095109493",
+    "email": "info@bepmopcakes.com",
+    "address": "Auta Balefi U-Turn, Opposite Panya Baba Mall, Karu Local Government, Nasarawa State, Nigeria",
+    "whatsapp": "https://wa.me/2348095109493"
+  }
+}
